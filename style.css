@@ -1,0 +1,41 @@
+# Tiramisu-Recipe
+🍰 A simple and interactive Tiramisu recipe website built with HTML, CSS, and JavaScript ☕🇮🇹✨
+body {
+    background-color: #f8f1e7;
+    font-family: Arial, sans-serif;
+}
+
+fieldset {
+    width: 700px;
+    margin: 30px auto;
+    background-color: white;
+    border: 2px solid #8b5e3c;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: #6b3e26;
+}
+
+h2 {
+    color: #8b5e3c;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+
+li {
+    margin: 8px;
+}
